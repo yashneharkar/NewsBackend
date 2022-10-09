@@ -17,6 +17,11 @@ export default async function handler(req, res) {
             title: "MHT CET Counselling 2022: Registration on CAP portal ends tomorrow",
             desc: "LMHT CET Counselling 2022: Registration for Maharashtra Common Entrance Test or MHT CET 2022 counselling ends tomorrow, October 4.Candidates who want to apply for admission to BE/BTech (4 year) and Master of Engineering (5 year integrated) courses through MHT CET can submit their application forms on cetcell.mahacet.org or fe2022.mahacet.org.As per the counselling schedule, the last date to submit and verify applications and documents is October 4 (4 pm). However, the facility for non-CAP candidates will continue till November 17 (5 pm).CET Cell will publish the provisional merit list for Maharashtra state/all India candidates on October 7 and the final merit list for round 1 on October 12, along with seat matrix.After that, candidates can choose and confirm options for CAP round 1 from October 13 to 15. The provisional allotment list for the first round will be available on October 18.Selected candidates have to accept seats from October 19 to 21 (3 pm) and report to the allotted institute and confirm admission from October 19 to 21.",
             imgUrl: "https://images.hindustantimes.com/img/2022/10/03/550x309/_7bb2f206-ed27-11ea-92df-080f51a06faf_1664781310683_1664781310683.jpg"
+        },
+        {
+            title: "ready proje t ",
+            desc: "any thimg nkjnffjkskjdf.",
+            imgUrl: "https://images.hindustantimes.com/img/2022/10/03/550x309/_7bb2f206-ed27-11ea-92df-080f51a06faf_1664781310683_1664781310683.jpg"
         }
     ]});
 

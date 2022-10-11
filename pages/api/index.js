@@ -27,6 +27,11 @@ export default async function handler(req, res) {
             title: "Revision Admission Notice for B. PHARMACY/PHARM.D for Academic year 2022-23",
             desc: "1. Display of the provisional merit list for Maharashtra State/All India candidates on website. 18-10-2022. Display of the Final Merit lists of Maharashtra State/All India candidates on website. 22-10-2022.",
             imgUrl: "https://cecbilaspur.ac.in/wp-content/uploads/2020/02/Pharmacy-4.jpg"
+        },
+        {
+            title: "PG Diploma in Technology & Law at MNLU, Mumbai: Apply by August 6 ",
+            desc: "Maharashtra National Law University (MNLU), Mumbai, has invited application for admission for admission to the one-year Post Graduate Diploma in Technology & Law starting in August 2022. More Detail on Curriculum and Application: https://mnlumumbai.edu.in/ PGDTL.php Eligibility is that Applicant should hold Gradduation in any subject. Fees for application is Rs. 1000/-. Application will be Reviewed and admission will be based on percentage of marks obtained in Graduation and a personal interview.",
+            imgUrl: "https://www.investopedia.com/thmb/bhaz_yknZGCHEDqRSARekpGu9go=/1920x1440/filters:fill(auto,1)/law-1063249_1920-a35e082d75c748e18bf8108733914dc1.jpg"
         }
     ]});
 
